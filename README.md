@@ -34,7 +34,9 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 	<img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white" />
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white" />
+ 
 </div>
 <br><br>
 
