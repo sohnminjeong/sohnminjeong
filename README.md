@@ -12,8 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=90D4B1&height=150&section=header&text=Hello!&nbsp;Hand&nbsp;Github👋&fontSize=45" />
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=90D4B1&height=150&section=header&text=Hello!&nbsp;Hand&nbsp;Github👋&fontSize=45" />
+	
 ## 📚Tech Stack📚
 ### 💻Platforms & Languages💻
 <div>
@@ -47,5 +50,8 @@ Here are some ideas to get you started:
 ## 💬GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohnminjeong)](https://github.com/anuraghazra/github-readme-stats)
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=90D4B1&height=150&section=footer&text=Bye&nbsp;Bye👋&fontSize=45" />
+
+</div>
+
+
